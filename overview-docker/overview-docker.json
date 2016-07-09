@@ -24,7 +24,7 @@
     },
     {
       "type": "datasource",
-      "id": "alexanderzobnin-zabbix-datasource",
+      "id": "alexanderzobnin-zabbix-app",
       "name": "zabbix",
       "version": "3.0.0"
     }
