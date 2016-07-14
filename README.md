@@ -4,7 +4,19 @@ Feel free to create PR for additional Zabbix dashboards.
 
 ### Overview Docker
 
+Requirement: https://github.com/monitoringartist/zabbix-docker-monitoring
+
 ![Overview Docker](https://raw.githubusercontent.com/monitoringartist/grafana-zabbix-dashboards/master/overview-docker/overview-docker.png) 
+
+### Overview Elasticsearch
+
+Requirement: https://github.com/mkhpalm/elastizabbix
+
+![Overview Elasticsearch](https://raw.githubusercontent.com/monitoringartist/grafana-zabbix-dashboards/master/overview-elasticsearch/overview-elasticsearch.png)
+
+### Overview RabbitMQ
+
+Requirement: https://github.com/marcocaberletti/zabbix-plugins/tree/master/rabbitmq 
 
 # Author
 
